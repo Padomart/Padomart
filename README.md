@@ -1,8 +1,8 @@
-### Hi there 👋
-
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
 </div>
+
+<h2 align="center">Hi there 👋</h2>
 <!--
 **Padomart/Padomart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
