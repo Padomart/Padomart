@@ -13,8 +13,9 @@
 ---
 
 ### :man_technologist: Обо мне:
-Меня зовут Артур и я начинаюший Python разработчик. 
-- Участвовал в <a href="https://github.com/BawNer/py-vision">Проекте по адаптированию вейвлетов под язык программирования Python</a> 
+Меня зовут Артур и я начинаюший Python Бэкенд-разработчик. 
+- Участвовал в <a href="https://github.com/BawNer/py-vision">Проекте по адаптированию вейвлетов под язык программирования Python</a>
+- Участвовал в <a href="https://github.com/BawNer/hack_rin_i_p_buzaev">Хакатоне</a> и разрабатывал серверную часть
 <!--
 **Padomart/Padomart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
