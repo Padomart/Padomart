@@ -33,4 +33,4 @@ Most of my commercial code is private. The repositories here are personal projec
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/padomart) · [Telegram](https://t.me/Padomart) · artur.dzhankulanov@gmail.com
+[LinkedIn](https://www.linkedin.com/in/padomart) · [Telegram](https://t.me/Padomart)
